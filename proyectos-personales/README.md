@@ -12,7 +12,7 @@ directo en Excel o Google Sheets.
 
 | Carpeta | Qué guarda | Archivos |
 |---|---|---|
-| `alimentacion/` | Lo que como y cómo lo preparo | `registro-comidas.csv`, `meal-prep.md`, `recetas.md` |
+| `alimentacion/` | Lo que como y cómo lo preparo | `preferencias.md`, `registro-comidas.csv`, `meal-prep.md`, `recetas.md` |
 | `presupuestos/` | Cuánto cuesta comer y vivir | `presupuesto-mensual.csv`, `lista-compras.csv` |
 | `finanzas/` | El plan general de mi plata | `plan-financiero.md`, `metas-ahorro.csv` |
 | `deporte/` | Lo que entreno | `registro-deporte.csv`, `plan-entrenamiento.md` |
