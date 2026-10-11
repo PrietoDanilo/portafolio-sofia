@@ -1,40 +1,23 @@
 # Recetas
 
-Plantilla para cada receta. El **costo por porción** sirve para conectar con el presupuesto.
+**Regla:** aquí solo se guardan recetas **ya preparadas** y **confirmadas** para guardar.
+Las ideas o propuestas no se anotan hasta haberlas cocinado.
+
+El **costo por porción** sirve para conectar con el presupuesto.
 
 ---
 
-## Pollo al horno
-
-- **Porciones:** 5
-- **Tiempo:** 50 min
-- **Sirve para:** almuerzo / días de entrenamiento
-- **Costo total aprox.:** $____ → **por porción:** $____
-
-**Ingredientes**
-
-| Ingrediente | Cantidad | Precio aprox. |
-|---|---|---|
-| Trutros o pechuga de pollo | 1 kg | |
-| Papas | 1 kg | |
-| Ajo, aceite, sal, merkén/orégano | a gusto | |
-
-**Pasos**
-
-1. Precalentar horno a 200 °C.
-2. Aliñar el pollo y cortar las papas.
-3. Hornear 40-45 min, dar vuelta a la mitad.
-
-**Notas:** dura 3-4 días en el refri.
-
----
+## Plantilla (copiar para cada receta)
 
 ## (Nombre de receta)
 
-- **Porciones:**
+- **Preparada el:**
+- **Quién la cocinó:**
+- **Porciones que rindió:**
 - **Tiempo:**
 - **Sirve para:**
 - **Costo total aprox.:** $____ → **por porción:** $____
+- **¿La repetiríamos?:**
 
 **Ingredientes**
 
@@ -46,4 +29,4 @@ Plantilla para cada receta. El **costo por porción** sirve para conectar con el
 
 1.
 
-**Notas:**
+**Notas / qué cambiaríamos:**

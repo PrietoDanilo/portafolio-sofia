@@ -18,6 +18,11 @@ directo en Excel o Google Sheets.
 | `deporte/` | Lo que entreno | `registro-deporte.csv`, `plan-entrenamiento.md` |
 | `semanal/` | La revisión que junta todo | `revision-semanal.md` |
 
+## Reglas
+
+- **Recetas:** en `alimentacion/recetas.md` solo se guardan recetas **ya preparadas** y con
+  **confirmación** para guardarlas. Las ideas y propuestas no se anotan.
+
 ## Cómo se conectan
 
 ```

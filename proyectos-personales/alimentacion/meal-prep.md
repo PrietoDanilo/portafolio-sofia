@@ -26,7 +26,7 @@ Copia la plantilla de abajo cada semana (lo más nuevo arriba).
 | Preparación | Porciones | Receta | Dura en refri |
 |---|---|---|---|
 | Ej: arroz | 6 | — | 4 días |
-| Ej: pollo al horno | 5 | `recetas.md#pollo-al-horno` | 3-4 días |
+| Ej: pollo al horno | 5 | (si ya está guardada en `recetas.md`) | 3-4 días |
 | | | | |
 
 ### Checklist
