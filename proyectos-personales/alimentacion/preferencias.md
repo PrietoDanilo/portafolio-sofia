@@ -14,9 +14,13 @@ Solo el nombre. Pasan a `recetas.md` cuando los volvamos a cocinar y confirmemos
 | Plato | Tipo | Notas |
 |---|---|---|
 | Fideos con albóndigas y salsa | Almuerzo | |
-| Pollo al curry con arroz | Almuerzo | |
+| Pollo al curry con arroz | Almuerzo | Última vez: semana del 5 de octubre de 2026 |
 | Papas horneadas | Acompañamiento | |
 | Ensaladas | Acompañamiento | |
 | Zapallo italiano relleno | Almuerzo | |
 | Quínoa | Base | |
 | Cuscús | Base | |
+
+## Rotación
+
+Para no repetir, evitar el plato que comimos la semana anterior.

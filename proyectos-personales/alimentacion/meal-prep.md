@@ -4,7 +4,20 @@ Copia la plantilla de abajo cada semana (lo más nuevo arriba).
 
 ---
 
-## Semana del ____ al ____
+## Semana del 13 al 16 de octubre de 2026
+
+Lunes 12 feriado: quiché en casa. Almuerzos para llevar de martes a viernes, 2 cada uno.
+
+| Quién | Almuerzo 1 | Almuerzo 2 |
+|---|---|---|
+| Novia | Zapallo italiano relleno | (por decidir) |
+| Yo | (por decidir) | (por decidir) |
+
+**Esta semana no:** pollo al curry (lo comimos la semana pasada).
+
+---
+
+## Plantilla: Semana del ____ al ____
 
 **Días con entrenamiento:** ____ (ver `../deporte/plan-entrenamiento.md`)
 **Presupuesto para comida esta semana:** $____
